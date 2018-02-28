@@ -51,6 +51,7 @@ strong {
   font-weight: bold; }
 
 .form-container {
+  display: none;
   margin-bottom: 10px; }
   .form-container form {
     float: left;
