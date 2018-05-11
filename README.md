@@ -1,3 +1,5 @@
+# Forked in order to use in about.me reports in Mode
+
 # A/B Test Calculator
 
 This repository hosts the source code for [ABTestCalculator.com](http://www.abtestcalculator.com), a visual A/B test significance calculator.
